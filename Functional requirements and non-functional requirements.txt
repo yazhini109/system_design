@@ -1,0 +1,1 @@
+lets us understand functional requirements and non functional requirements.txt file
